@@ -52,6 +52,7 @@
     color: #fff;
     float: left;
     margin: 12px;
+    width: calc(100% - 85px - 24px)
   }
   
   a{
